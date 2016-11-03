@@ -1,0 +1,20 @@
+.Contenedor
+{
+	border: 1px solid orange;
+	margin-right:85%;
+	margin-left: 1%;/*
+	margin-top: 0.5px;
+	margin-bottom: 0.5px;*/
+	
+}
+.Titulo
+{	
+	padding: 4px 11px;
+}
+.Contenido
+{
+	font-size: 12.5px;	
+	padding-right: 11px;
+	padding-left: 11px;
+	padding-bottom: 10px;
+}
